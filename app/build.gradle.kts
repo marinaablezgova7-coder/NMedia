@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.nmedia"
+        applicationId = "= "ru.netology.nme"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
